@@ -1,10 +1,15 @@
 # 👋 Olà, Sou Guilherme Costa
 
-Eu sou estudande de Análise e Desenvolvimento de Sistemas na Faculdade Estacio, tenho 32 anos e sou de São Luis - MA. Estou a procura da primeira oportunidade como programador. Atulmente venho focando meus estudos em backend.
+Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Estacio, tenho 32 anos e sou de São Luis - MA. Estou a procura da primeira oportunidade como programador.
 
 #### 🌱 Estou estudando:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width = "40" height = "40" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "40" height = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "40" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width = "40" height = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width = "40" height = "40" />
+
+#### ⛏️ Stack:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "40" height = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "40" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width = "40" height = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width = "40" height = "40" />
+
           
 
  #### Contatos:
