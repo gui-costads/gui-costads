@@ -1,9 +1,9 @@
 # 👋 Olà, Sou Guilherme Costa
 
-Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Estacio, tenho 32 anos e sou de São Luis - MA. Estou a procura da primeira oportunidade como programador.
+Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Estacio, tenho 33 anos e sou de São Luis - MA. 
 
 #### 🌱 Estou estudando:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width = "40" height = "40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"  width = "40" height = "40" />
 
 
 #### ⛏️ Stack:
